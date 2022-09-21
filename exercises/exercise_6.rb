@@ -8,6 +8,7 @@ require_relative './exercise_5'
 puts "Exercise 6"
 puts "----------"
 
+
 # Adding store employees
 
 # Add employees to store 1 (Burnaby)
