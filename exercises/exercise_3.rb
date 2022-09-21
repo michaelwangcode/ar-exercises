@@ -5,6 +5,7 @@ require_relative './exercise_2'
 puts "Exercise 3"
 puts "----------"
 
+
 # Assign the third store into an instance variable
 @store3 = Store.find(3)
 

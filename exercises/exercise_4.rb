@@ -6,6 +6,7 @@ require_relative './exercise_3'
 puts "Exercise 4"
 puts "----------"
 
+
 # Create three more stores
 
 Store.create(name: "Surrey",
