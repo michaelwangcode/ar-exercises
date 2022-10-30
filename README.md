@@ -1,5 +1,14 @@
 # Active Record Exercises
 
+## About
+
+This project contains a list of exercises for using Active Record for Ruby on Rails.
+
+Read the information below for instructions on how to get started.
+
+Made during Lighthouse Labs (W09D1).
+
+
 ## Introduction
 
 You'll find that this project has two Active Record "models" (classes):
